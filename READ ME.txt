@@ -1,7 +1,7 @@
-# The Rumored: Quantum Adaptive Governance Protocol – Infinity
+Quantum Adaptive Governance Protocol
 
 **Author**: Matthew Rios  
-Quantum Systems Architect | Collapse Strategist | Protocol Inventor
+Quantum Systems Architect
 
 ## Overview
 A 133-qubit quantum governance protocol executed on IBM QPU with 4096 shots.  
@@ -20,3 +20,4 @@ Load the QASM file into IBM Quantum Composer, run with 4096 shots, and analyze t
 
 ## Contact
 If you understand what this means, let’s talk.  
+
