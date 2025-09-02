@@ -1,6 +1,6 @@
 # The Rumored: Quantum Adaptive Governance Protocol – Infinity
 
-**Author**: Matthew Rios  
+**Author**: 
 Quantum Systems Architect | Collapse Strategist | Protocol Inventor
 
 Welcome to my repository.  
